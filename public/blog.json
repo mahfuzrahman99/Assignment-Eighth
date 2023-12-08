@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/vXhN6kF/Health.png",
+    "title": "Clean water for children",
+    "category_name": "Health",
+    "category_bg": "#aec8ff",
+    "card_bg": "#d9e5ff",
+    "text_color": "#0052ff",
+    "description": "Clean and safe drinking water is essential for the health and well-being of children around the world. With your support, we provide access to clean water sources and promote healthy hygiene practices.",
+    "price": 199
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/hRp5fhQ/Education.png",
+    "title": "Good education",
+    "category_name": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#ffe3e4",
+    "text_color": "#ff444a",
+    "description": "Quality education is the foundation of a bright future. We work tirelessly to ensure that every child has access to a quality education, regardless of their background or circumstances.",
+    "price": 245
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/SRsDBq7/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category_name": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#ebf6e2",
+    "text_color": "#79c23f",
+    "description": "Our clothing drive aims to provide gently used clothing to those in need. By donating and recycling clothing, we reduce waste and help individuals and families stay warm and comfortable.",
+    "price": 145
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/CsJ0DHY/Food.png",
+    "title": "Better Food for Everyone",
+    "category_name": "Food",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#feeae3",
+    "text_color": "#f87147",
+    "description": "Access to nutritious and affordable food is a basic human right. We work to eliminate hunger by providing nutritious meals to those in need and supporting sustainable food systems.",
+    "price": 295
+  },
+{
+    "id": 8,
+    "picture": "https://i.ibb.co/CsJ0DHY/Food.png",
+    "title": "Better Food for Everyone",
+    "category_name": "Food",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#feeae3",
+    "text_color": "#f87147",
+    "description": "Access to nutritious and affordable food is a basic human right. We work to eliminate hunger by providing nutritious meals to those in need and supporting sustainable food systems.",
+    "price": 318
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/SRsDBq7/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category_name": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#ebf6e2",
+    "text_color": "#79c23f",
+    "description": "Our clothing drive aims to provide gently used clothing to those in need. By donating and recycling clothing, we reduce waste and help individuals and families stay warm and comfortable.",
+    "price": 253
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/hRp5fhQ/Education.png",
+    "title": "Good education",
+    "category_name": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#ffe3e4",
+    "text_color": "#ff444a",
+    "description": "Clean and safe drinking water is essential for the health and well-being of children around the world. With your support, we provide access to clean water sources and promote healthy hygiene practices.",
+    "price": 224
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/vXhN6kF/Health.png",
+    "title": "Clean water for children",
+    "category_name": "Health",
+    "category_bg": "#aec8ff",
+    "card_bg": "#d9e5ff",
+    "text_color": "#0052ff",
+    "description": "Clean and safe drinking water is essential for the health and well-being of children around the world. With your support, we provide access to clean water sources and promote healthy hygiene practices.",
+    "price": 175
+  },
+      {
+    "id": 9,
+    "picture": "https://i.ibb.co/vXhN6kF/Health.png",
+    "title": "Clean water for children",
+    "category_name": "Health",
+    "category_bg": "#aec8ff",
+    "card_bg": "#d9e5ff",
+    "text_color": "#0052ff",
+    "description": "Clean and safe drinking water is essential for the health and well-being of children around the world. With your support, we provide access to clean water sources and promote healthy hygiene practices.",
+    "price": 126
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/hRp5fhQ/Education.png",
+    "title": "Good education",
+    "category_name": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#ffe3e4",
+    "text_color": "#ff444a",
+    "description": "Quality education is the foundation of a bright future. We work tirelessly to ensure that every child has access to a quality education, regardless of their background or circumstances.",
+    "price": 278
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/SRsDBq7/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category_name": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#ebf6e2",
+    "text_color": "#79c23f",
+    "description": "Our clothing drive aims to provide gently used clothing to those in need. By donating and recycling clothing, we reduce waste and help individuals and families stay warm and comfortable.",
+    "price": 166
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/CsJ0DHY/Food.png",
+    "title": "Better Food for Everyone",
+    "category_name": "Food",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#feeae3",
+    "text_color": "#f87147",
+    "description": "Access to nutritious and affordable food is a basic human right. We work to eliminate hunger by providing nutritious meals to those in need and supporting sustainable food systems.",
+    "price": 329
+  }
+]
