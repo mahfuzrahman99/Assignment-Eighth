@@ -2,7 +2,7 @@
 # Website Name: Donation Campaign
 
 ## Live Link Surge
-- **Live Link:** [Donation Campaign](https://assignment-eight-mahfuz.surge.sh/)
+- **Live Link:** [Donation Campaign](http://donation-campaign-mahfuz.surge.sh/)
 
 * **Donation Tracking:**
   - Allows users to make donations and tracks their contributions.

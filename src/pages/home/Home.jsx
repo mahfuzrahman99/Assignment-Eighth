@@ -20,7 +20,7 @@ const Home = () => {
       <div className="relative">
         <div
           style={{ backgroundImage: 'url("/Resources/OIP.jpg")' }}
-          className="absolute top-0 -z-10 inset-0 bg-cover opacity-25"
+          className="absolute top-0 -z-10 inset-0 bg-cover bg-black opacity-40"
         ></div>
         <Navbar></Navbar>
         <Banner handleSearch={handleSearch}></Banner>
